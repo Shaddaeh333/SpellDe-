@@ -1,5 +1,6 @@
-<img width="300" alt="1000190205" src="https://github.com/user-attachments/assets/49eb89ce-1704-4433-b18d-a62cce39cb65" />
 # SpellDe
+<img width="300"  alt="1000190205" src="https://github.com/user-attachments/assets/20eb9358-d204-4f2b-847c-c34739e0ce69" />
+
 
 A German spelling game for learners, with English hints to help you understand each word.
 
