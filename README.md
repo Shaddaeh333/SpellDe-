@@ -1,3 +1,4 @@
+<img width="300" alt="1000190205" src="https://github.com/user-attachments/assets/49eb89ce-1704-4433-b18d-a62cce39cb65" />
 # SpellDe
 
 A German spelling game for learners, with English hints to help you understand each word.
