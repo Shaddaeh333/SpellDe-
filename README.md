@@ -1,6 +1,4 @@
-# SpellDe-
-A German spelling game for learners, with English hints. Play: https://spellde.netlify.app
-# SpellDE
+# SpellDe
 
 A German spelling game for learners, with English hints to help you understand each word.
 
